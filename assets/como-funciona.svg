@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 240" width="1100" height="240" role="img" aria-label="Cómo se usa: elige tu USB, agrega tus ISO, juega desde OPL" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+  <title>Cómo se usa GrifoPs2GameCopi</title>
+  <g transform="translate(20 20)">
+    <rect width="320" height="200" rx="20" fill="#181B2E" stroke="#D4AF37" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="44" cy="46" r="22" fill="#D4AF37"/><text x="44" y="54" text-anchor="middle" font-size="24" font-weight="700" fill="#0D0F1A">1</text>
+    <text x="80" y="54" font-size="24" font-weight="700" fill="#E8E2D0">Elige tu USB</text>
+    <text x="28" y="108" font-size="18" fill="#969282">Debe estar en FAT32. Si no,</text>
+    <text x="28" y="134" font-size="18" fill="#969282">la app te ofrece formatearla.</text>
+    <g transform="translate(0 16)"><rect x="244" y="134" width="46" height="14" rx="3" fill="#94A3BE"/><rect x="236" y="146" width="62" height="34" rx="9" fill="#D4AF37"/></g>
+  </g>
+  <path d="M350 120 h40 m-12 -12 l12 12 l-12 12" fill="none" stroke="#D4AF37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(390 20)">
+    <rect width="320" height="200" rx="20" fill="#181B2E" stroke="#D4AF37" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="44" cy="46" r="22" fill="#D4AF37"/><text x="44" y="54" text-anchor="middle" font-size="24" font-weight="700" fill="#0D0F1A">2</text>
+    <text x="80" y="54" font-size="24" font-weight="700" fill="#E8E2D0">Agrega tus ISO</text>
+    <text x="28" y="108" font-size="18" fill="#969282">Elige uno o varios juegos y</text>
+    <text x="28" y="134" font-size="18" fill="#969282">se convierten a formato UL.</text>
+    <g transform="translate(0 16)"><circle cx="262" cy="154" r="30" fill="#D4AF37"/><circle cx="262" cy="154" r="9" fill="#181B2E"/></g>
+  </g>
+  <path d="M720 120 h40 m-12 -12 l12 12 l-12 12" fill="none" stroke="#D4AF37" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(760 20)">
+    <rect width="320" height="200" rx="20" fill="#181B2E" stroke="#D4AF37" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="44" cy="46" r="22" fill="#D4AF37"/><text x="44" y="54" text-anchor="middle" font-size="24" font-weight="700" fill="#0D0F1A">3</text>
+    <text x="80" y="54" font-size="24" font-weight="700" fill="#E8E2D0">Juega con OPL</text>
+    <text x="28" y="108" font-size="18" fill="#969282">Conecta la USB a tu PS2 y</text>
+    <text x="28" y="134" font-size="18" fill="#969282">abre OPL. Tus juegos listos.</text>
+    <g transform="translate(0 16)"><rect x="196" y="148" width="98" height="12" rx="6" fill="#0D0F1A"/><rect x="196" y="148" width="98" height="12" rx="6" fill="#D4AF37"/></g>
+  </g>
+</svg>
