@@ -149,7 +149,3 @@ GrifoPs2GameCopi/
 ## 👤 Creador
 
 **xyvenqorix** · 🌐 [xyvenqorix.vercel.app](https://xyvenqorix.vercel.app) · 📱 +53 56639178
-
-## 📄 Licencia 
-
-Distribuido bajo la licencia **MIT**. Agrega un archivo `LICENSE` con el texto de la licencia y tu nombre.
