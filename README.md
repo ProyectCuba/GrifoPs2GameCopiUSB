@@ -15,7 +15,7 @@
   Elige la USB, agrega tus ISO y listo para OPL.
 </p>
 
- **Release Descarga:** [Release](https://github.com/novaprpyect/GrifoPs2GameCopiUSB/releases/tag/GrifoPs2GameCopiUSB)
+ **Release Descarga:** [Release](https://github.com/ProyectCuba/GrifoPs2GameCopiUSB/releases/tag/GrifoPs2GameCopiUSB)
 ---
 
 ## ✨ ¿Qué es?
